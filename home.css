@@ -30,7 +30,7 @@ html{
     right: 0;
     background: white;
     box-shadow: 0 .5rem 1rem gray;
-    padding: 1.3rem 3%;
+    padding: .5rem 3%;
     display: flex;
     align-items: center;
     z-index: 1000;
