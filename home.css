@@ -37,13 +37,13 @@ html{
 
     .logo {
         margin-right: auto;
-        font-size: 2.5rem;
+        font-size: 2rem;
         font-weight: bolder;
         display: flex;
 
         img {
-            height: 70px;
-            width: 70px;
+            height: 50px;
+            width: 50px;
         }
 
         h2 {
@@ -59,7 +59,7 @@ html{
             position: absolute;
             top: 1.5rem;
             right: 2rem;
-            font-size: 2.5rem;
+            font-size: 2rem;
             cursor: pointer;
             color: black;
 
@@ -70,7 +70,7 @@ html{
 
         a {
             margin-right: 2rem;
-            font-size: 1.9rem;
+            font-size: 1.2rem;
             text-decoration: none;
             color: black;
             position: relative;
