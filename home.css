@@ -1,5 +1,5 @@
 html{
-    font-size:80%;
+    font-size:70%;
 }
 
 .carousel {
@@ -642,7 +642,7 @@ footer {
 
 @media (max-width:1300px) {
     html{
-    font-size:70%;
+    font-size:60%;
 }
     .header {
         padding: 1rem 3%;
@@ -719,7 +719,7 @@ footer {
 
 @media screen and (max-width:800px) {
     html{
-    font-size:70%;
+    font-size:50%;
 }
     .header {
         padding: .7rem;
@@ -793,9 +793,9 @@ footer {
 
 
 @media (max-width:460px) {
-    html{
+/*     html{
     font-size:60%;
-}
+} */
     .header {
         .logo {
             img {
