@@ -30,14 +30,14 @@ html{
     right: 0;
     background: white;
     box-shadow: 0 .5rem 1rem gray;
-    padding: .3rem 3%;
+    padding: 1rem 3%;
     display: flex;
     align-items: center;
     z-index: 1000;
 
     .logo {
         margin-right: auto;
-        font-size: 2rem;
+        font-size: 1.8rem;
         font-weight: bolder;
         display: flex;
 
@@ -59,7 +59,7 @@ html{
             position: absolute;
             top: 1.5rem;
             right: 2rem;
-            font-size: 2rem;
+            font-size: 2.3rem;
             cursor: pointer;
             color: black;
 
@@ -70,7 +70,7 @@ html{
 
         a {
             margin-right: 2rem;
-            font-size: 1.2rem;
+            font-size: 1.6rem;
             text-decoration: none;
             color: black;
             position: relative;
